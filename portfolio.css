@@ -1,0 +1,125 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding-right: 9%;
+  padding-left: 9%;
+  padding-top: 5%;
+  padding-bottom: 2%;
+  background-color:gold;
+  
+
+
+
+
+}
+h1{
+  font-family: serif;
+}
+
+header, nav, section, footer {
+  padding: 20px;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+}
+span{
+  color: #f90014;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+  padding: 10px 10px;
+}
+nav ul li a{
+  color: blue;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+nav ul li a:hoover{
+  color: #f90014;
+  transition: .4s;
+}
+section {
+  margin-bottom: 20px;
+}
+.
+
+.education {
+  background-color: #f4f4f4;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
+ul{
+  font-family: sans-serif;
+  color: #f90014;
+  padding-right: 15px;
+}
+.fa-square-facebook{
+  font-size: 30px;
+  color: navy;
+ 
+}
+.fa-square-twitter{
+  font-size: 30px;
+  color: skyblue;
+}
+.fa-square-instagram{
+  font-size: 30px;
+  color: pink;
+}
+.fa-house{
+  font-size: 20px;
+  color: green;
+}
+.fa-screwdriver-wrench{
+  font-size: 20px;
+  color: green;
+}
+.fa-user-graduate{
+  font-size: 20px;
+  color: green;
+}
+.fa-industry{
+  font-size: 20px;
+  color: green;
+}
+.fa-envelope{
+  font-size: 20px;
+  color: green;
+}
+footer div img{
+  border-radius: 50%;
+  display: inline;
+  margin-right: 2px;
+  margin-left: 2px;
+  padding: 4px 4px;
+  border:4px solid green;
+}
+footer div a{
+  color: white;
+  font-size: 20px;
+  margin-right: 2px;
+}
+footer div i{
+  padding: 2px 2px;
+}
+img{
+  border-radius: 50%;
+  border: 6px solid skyblue;
+}
